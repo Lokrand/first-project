@@ -1,0 +1,6 @@
+@import url(/blocks/digits/table/table.css);
+
+.digits {
+  width: 1100px;
+  margin: 0 auto;
+}

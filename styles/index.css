@@ -1,0 +1,21 @@
+@import url(/vendor/normalize.css);
+@import url(/blocks/header/header.css);
+@import url(/blocks/description/two-columns/two-columns.css);
+@import url(/blocks/techniques/techniques.css);
+@import url(/blocks/video/video.css);
+@import url(/blocks/khan/khan.css);
+@import url(/blocks/digits/digits.css);
+@import url(/blocks/footer/footer.css);
+@import url(/blocks/oakley/oakley.css);
+@import url(/blocks/resources/recources.css);
+@import url(/blocks/kaufman/kaufman.css);
+@import url(/blocks/feynman/feynman.css);
+
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: 'Inter', 'Arial', sans-serif;
+}
+
+

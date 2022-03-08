@@ -1,0 +1,16 @@
+.video__iframe {
+  position: relative;
+  top: 50px;
+  z-index: 1;
+  width: 515px;
+  height: 316px;
+}
+
+.video__iframe_first {
+  margin-right: 10px;
+}
+
+.video__iframe_second {
+  margin-left: 10px;
+}
+  

@@ -1,0 +1,13 @@
+.footer__columns {
+  display: flex;
+  width: 90%;
+  min-height: 250px;
+  margin: 0 auto;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.footer__columns_betweeen {
+  display: flex;
+}
+  
