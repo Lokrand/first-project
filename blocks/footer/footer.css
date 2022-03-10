@@ -1,11 +1,11 @@
-@import url(./__author/footer__author.css);
-@import url(./__column-heading/footer__column-heading.css);
-@import url(./__columns/footer__columns.css);
-@import url(./__column-link/footer__column-link.css);
-@import url(./__column_content-copyright/footer__column_content-copyright.css);
-@import url(./__column_content-social/footer__column_content-social.css);
-@import url(./__column_content-info/footer__column_content-info.css);
-@import url(./__social-icon/footer__social-icon.css);
+@import url(../__author/footer__author.css);
+@import url(../__column-heading/footer__column-heading.css);
+@import url(../__columns/footer__columns.css);
+@import url(../__column-link/footer__column-link.css);
+@import url(../__column_content-copyright/footer__column_content-copyright.css);
+@import url(../__column_content-social/footer__column_content-social.css);
+@import url(../__column_content-info/footer__column_content-info.css);
+@import url(../__social-icon/footer__social-icon.css);
 @import url(../logo__place_footer/logo__place_footer.css);
 
 .footer {
