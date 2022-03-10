@@ -43,10 +43,10 @@
 @import url('../blocks/header/__title/header__title.css');
 @import url('../blocks/logo__place_header/logo__place_header.css');
 
-@import url('../blocks/table/__cell_theme_dark/table__cell_theme_dark.css');
-@import url('../blocks/table/__heading_theme_dark/table__heading_theme_dark.css');
-@import url('../blocks/table/__text_theme_dark/table__text_theme_dark.css');
-@import url('../blocks/table/_theme_dark/table_theme_dark.css');
+@import url('../blocks/kaufman/table/__cell_theme_dark/table__cell_theme_dark.css');
+@import url('../blocks/kaufman/table/__heading_theme_dark/table__heading_theme_dark.css');
+@import url('../blocks/kaufman/table/__text_theme_dark/table__text_theme_dark.css');
+@import url('../blocks/kaufman/table/_theme_dark/table_theme_dark.css');
 
 @import url('../blocks/kaufman/__triangle/kaufman__triangle.css');
 @import url('../blocks/kaufman/section-subtitle_theme_dark/section-subtitle_theme_dark.css');
