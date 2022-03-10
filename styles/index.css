@@ -1,3 +1,4 @@
+@import url(../blocks/page/page.css);
 @import url(../vendor/normalize.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/description/two-columns/two-columns.css);
@@ -75,12 +76,3 @@
 
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
-
-.page {
-  min-width: 1100px;
-  max-width: 1600px;
-  margin: 0 auto;
-  font-family: 'Inter', 'Arial', sans-serif;
-}
-
-
