@@ -1,11 +1,11 @@
-@import url(/blocks/techniques/section-title/section-title.css);
-@import url(/blocks/techniques/section-subtitle/section-subtitle.css);
-@import url(/blocks/techniques/cards/cards.css);
-@import url(/blocks/techniques/cards/__item/cards__item.css);
-@import url(/blocks/techniques/cards/__description/cards__description.css);
-@import url(/blocks/techniques/cards/__image/cards__image.css);
-@import url(/blocks/techniques/cards/__title/cards__title.css);
-@import url(/blocks/techniques/cards/__item/_no-right-margin/cards__item_no-right-margin.css);
+@import url(./section-title/section-title.css);
+@import url(./section-subtitle/section-subtitle.css);
+@import url(./cards/cards.css);
+@import url(./cards/__item/cards__item.css);
+@import url(./cards/__description/cards__description.css);
+@import url(./cards/__image/cards__image.css);
+@import url(./cards/__title/cards__title.css);
+@import url(./cards/__item/_no-right-margin/cards__item_no-right-margin.css);
 
 .techniques {
   width: 80%; 

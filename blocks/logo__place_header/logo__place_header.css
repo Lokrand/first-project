@@ -4,7 +4,7 @@
   left: 64px;
   width: 183px;
   height: 32px;
-  background-image: url("/images/logo__place_header/logo_place_header.svg");
+  background-image: url("../../images/logo__place_header/logo_place_header.svg");
   background-position: center;
   background-size: cover;
 }

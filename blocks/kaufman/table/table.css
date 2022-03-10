@@ -1,4 +1,4 @@
-@import url(/blocks/kaufman/table/__cell_theme_dark/table__cell_theme_dark.css);
-@import url(/blocks/kaufman/table/__heading_theme_dark/table__heading_theme_dark.css);
-@import url(/blocks/kaufman/table/__text_theme_dark/table__text_theme_dark.css);
-@import url(/blocks/kaufman/table/_theme_dark/table_theme_dark.css);
+@import url(./__cell_theme_dark/table__cell_theme_dark.css);
+@import url(./__heading_theme_dark/table__heading_theme_dark.css);
+@import url(./__text_theme_dark/table__text_theme_dark.css);
+@import url(./_theme_dark/table_theme_dark.css);
