@@ -36,7 +36,7 @@
 @import url('../blocks/footer/__social-icon/footer__social-icon.css');
 @import url('../blocks/logo__place_footer/logo__place_footer.css');
 
-@import url('../blocks/header/__link/header__link.css');
+@import url('../blocks/header/link/header__link.css');
 @import url('../blocks/header/__main-illustration/header__main-illustration.css');
 @import url('../blocks/header/__square-pic/header__square-pic.css');
 @import url('../blocks/header/__subtitle/header__subtitle.css');
