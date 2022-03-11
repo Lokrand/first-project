@@ -1,7 +1,7 @@
 .header__title {
   display: flex;
   width: 730px;
-  margin-left: 64px;
+  margin: 0 0 0 64px;
   align-items: center;
   font-weight: bold;
   font-size: 102px;

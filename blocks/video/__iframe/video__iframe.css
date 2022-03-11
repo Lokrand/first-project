@@ -1,16 +1,17 @@
 .video__iframe {
+  border: none;
   position: relative;
   top: 50px;
-  z-index: 1;
+  z-index: 2;
   width: 515px;
   height: 316px;
 }
 
-.video__iframe_first {
+.video__iframe:first-child {
   margin-right: 10px;
 }
 
-.video__iframe_second {
+.video__iframe:last-child {
   margin-left: 10px;
 }
   

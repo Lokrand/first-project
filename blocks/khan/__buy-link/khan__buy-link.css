@@ -3,6 +3,7 @@
   line-height: 42px;
   color: #2f80ed;
   text-decoration: none;
+  align-self: flex-start;
 }
 
 .khan__buy-link:hover {
