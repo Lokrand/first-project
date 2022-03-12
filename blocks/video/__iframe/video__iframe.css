@@ -6,12 +6,3 @@
   width: 515px;
   height: 316px;
 }
-
-.video__iframe:first-child {
-  margin-right: 10px;
-}
-
-.video__iframe:last-child {
-  margin-left: 10px;
-}
-  

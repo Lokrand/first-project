@@ -13,8 +13,6 @@
 
 .footer__column-link:hover {
   opacity: .25;
-  transition-duration: .2s;
-  transition-timing-function: linear;
-  transition-delay: 0;
+  transition: .2s linear 0;
 }
   

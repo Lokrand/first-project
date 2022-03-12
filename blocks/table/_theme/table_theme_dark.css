@@ -1,9 +1,5 @@
 .table_theme_dark {
   position: relative;
-  display: flex;
   width: 1100px;
   margin: 0 auto;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
 }
